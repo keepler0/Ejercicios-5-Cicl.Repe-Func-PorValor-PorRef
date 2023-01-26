@@ -1,0 +1,14 @@
+C:\Users\diego\source\repos\Ejercicios 5 Cicl.Repe.-Func-PorValor-PorRef\Ejercicio59\bin\Debug\netcoreapp3.1\Ejercicio59.exe
+C:\Users\diego\source\repos\Ejercicios 5 Cicl.Repe.-Func-PorValor-PorRef\Ejercicio59\bin\Debug\netcoreapp3.1\Ejercicio59.deps.json
+C:\Users\diego\source\repos\Ejercicios 5 Cicl.Repe.-Func-PorValor-PorRef\Ejercicio59\bin\Debug\netcoreapp3.1\Ejercicio59.runtimeconfig.json
+C:\Users\diego\source\repos\Ejercicios 5 Cicl.Repe.-Func-PorValor-PorRef\Ejercicio59\bin\Debug\netcoreapp3.1\Ejercicio59.runtimeconfig.dev.json
+C:\Users\diego\source\repos\Ejercicios 5 Cicl.Repe.-Func-PorValor-PorRef\Ejercicio59\bin\Debug\netcoreapp3.1\Ejercicio59.dll
+C:\Users\diego\source\repos\Ejercicios 5 Cicl.Repe.-Func-PorValor-PorRef\Ejercicio59\bin\Debug\netcoreapp3.1\Ejercicio59.pdb
+C:\Users\diego\source\repos\Ejercicios 5 Cicl.Repe.-Func-PorValor-PorRef\Ejercicio59\obj\Debug\netcoreapp3.1\Ejercicio59.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\Ejercicios 5 Cicl.Repe.-Func-PorValor-PorRef\Ejercicio59\obj\Debug\netcoreapp3.1\Ejercicio59.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\Ejercicios 5 Cicl.Repe.-Func-PorValor-PorRef\Ejercicio59\obj\Debug\netcoreapp3.1\Ejercicio59.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\Ejercicios 5 Cicl.Repe.-Func-PorValor-PorRef\Ejercicio59\obj\Debug\netcoreapp3.1\Ejercicio59.AssemblyInfo.cs
+C:\Users\diego\source\repos\Ejercicios 5 Cicl.Repe.-Func-PorValor-PorRef\Ejercicio59\obj\Debug\netcoreapp3.1\Ejercicio59.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\Ejercicios 5 Cicl.Repe.-Func-PorValor-PorRef\Ejercicio59\obj\Debug\netcoreapp3.1\Ejercicio59.dll
+C:\Users\diego\source\repos\Ejercicios 5 Cicl.Repe.-Func-PorValor-PorRef\Ejercicio59\obj\Debug\netcoreapp3.1\Ejercicio59.pdb
+C:\Users\diego\source\repos\Ejercicios 5 Cicl.Repe.-Func-PorValor-PorRef\Ejercicio59\obj\Debug\netcoreapp3.1\Ejercicio59.genruntimeconfig.cache

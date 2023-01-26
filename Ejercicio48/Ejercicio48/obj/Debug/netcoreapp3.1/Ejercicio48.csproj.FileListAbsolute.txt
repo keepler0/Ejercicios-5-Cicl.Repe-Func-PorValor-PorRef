@@ -1,0 +1,14 @@
+C:\Users\diego\source\repos\Ejercicios 5 Cicl.Repe.-Func-PorValor-PorRef\Ejercicio48\Ejercicio48\bin\Debug\netcoreapp3.1\Ejercicio48.exe
+C:\Users\diego\source\repos\Ejercicios 5 Cicl.Repe.-Func-PorValor-PorRef\Ejercicio48\Ejercicio48\bin\Debug\netcoreapp3.1\Ejercicio48.deps.json
+C:\Users\diego\source\repos\Ejercicios 5 Cicl.Repe.-Func-PorValor-PorRef\Ejercicio48\Ejercicio48\bin\Debug\netcoreapp3.1\Ejercicio48.runtimeconfig.json
+C:\Users\diego\source\repos\Ejercicios 5 Cicl.Repe.-Func-PorValor-PorRef\Ejercicio48\Ejercicio48\bin\Debug\netcoreapp3.1\Ejercicio48.runtimeconfig.dev.json
+C:\Users\diego\source\repos\Ejercicios 5 Cicl.Repe.-Func-PorValor-PorRef\Ejercicio48\Ejercicio48\bin\Debug\netcoreapp3.1\Ejercicio48.dll
+C:\Users\diego\source\repos\Ejercicios 5 Cicl.Repe.-Func-PorValor-PorRef\Ejercicio48\Ejercicio48\bin\Debug\netcoreapp3.1\Ejercicio48.pdb
+C:\Users\diego\source\repos\Ejercicios 5 Cicl.Repe.-Func-PorValor-PorRef\Ejercicio48\Ejercicio48\obj\Debug\netcoreapp3.1\Ejercicio48.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\Ejercicios 5 Cicl.Repe.-Func-PorValor-PorRef\Ejercicio48\Ejercicio48\obj\Debug\netcoreapp3.1\Ejercicio48.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\Ejercicios 5 Cicl.Repe.-Func-PorValor-PorRef\Ejercicio48\Ejercicio48\obj\Debug\netcoreapp3.1\Ejercicio48.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\Ejercicios 5 Cicl.Repe.-Func-PorValor-PorRef\Ejercicio48\Ejercicio48\obj\Debug\netcoreapp3.1\Ejercicio48.AssemblyInfo.cs
+C:\Users\diego\source\repos\Ejercicios 5 Cicl.Repe.-Func-PorValor-PorRef\Ejercicio48\Ejercicio48\obj\Debug\netcoreapp3.1\Ejercicio48.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\Ejercicios 5 Cicl.Repe.-Func-PorValor-PorRef\Ejercicio48\Ejercicio48\obj\Debug\netcoreapp3.1\Ejercicio48.dll
+C:\Users\diego\source\repos\Ejercicios 5 Cicl.Repe.-Func-PorValor-PorRef\Ejercicio48\Ejercicio48\obj\Debug\netcoreapp3.1\Ejercicio48.pdb
+C:\Users\diego\source\repos\Ejercicios 5 Cicl.Repe.-Func-PorValor-PorRef\Ejercicio48\Ejercicio48\obj\Debug\netcoreapp3.1\Ejercicio48.genruntimeconfig.cache

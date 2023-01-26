@@ -1,0 +1,14 @@
+C:\Users\diego\source\repos\Ejercicios 5 Cicl.Repe.-Func-PorValor-PorRef\Ejercicio47\Ejercicio47\bin\Debug\netcoreapp3.1\Ejercicio47.exe
+C:\Users\diego\source\repos\Ejercicios 5 Cicl.Repe.-Func-PorValor-PorRef\Ejercicio47\Ejercicio47\bin\Debug\netcoreapp3.1\Ejercicio47.deps.json
+C:\Users\diego\source\repos\Ejercicios 5 Cicl.Repe.-Func-PorValor-PorRef\Ejercicio47\Ejercicio47\bin\Debug\netcoreapp3.1\Ejercicio47.runtimeconfig.json
+C:\Users\diego\source\repos\Ejercicios 5 Cicl.Repe.-Func-PorValor-PorRef\Ejercicio47\Ejercicio47\bin\Debug\netcoreapp3.1\Ejercicio47.runtimeconfig.dev.json
+C:\Users\diego\source\repos\Ejercicios 5 Cicl.Repe.-Func-PorValor-PorRef\Ejercicio47\Ejercicio47\bin\Debug\netcoreapp3.1\Ejercicio47.dll
+C:\Users\diego\source\repos\Ejercicios 5 Cicl.Repe.-Func-PorValor-PorRef\Ejercicio47\Ejercicio47\bin\Debug\netcoreapp3.1\Ejercicio47.pdb
+C:\Users\diego\source\repos\Ejercicios 5 Cicl.Repe.-Func-PorValor-PorRef\Ejercicio47\Ejercicio47\obj\Debug\netcoreapp3.1\Ejercicio47.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\Ejercicios 5 Cicl.Repe.-Func-PorValor-PorRef\Ejercicio47\Ejercicio47\obj\Debug\netcoreapp3.1\Ejercicio47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\Ejercicios 5 Cicl.Repe.-Func-PorValor-PorRef\Ejercicio47\Ejercicio47\obj\Debug\netcoreapp3.1\Ejercicio47.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\Ejercicios 5 Cicl.Repe.-Func-PorValor-PorRef\Ejercicio47\Ejercicio47\obj\Debug\netcoreapp3.1\Ejercicio47.AssemblyInfo.cs
+C:\Users\diego\source\repos\Ejercicios 5 Cicl.Repe.-Func-PorValor-PorRef\Ejercicio47\Ejercicio47\obj\Debug\netcoreapp3.1\Ejercicio47.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\Ejercicios 5 Cicl.Repe.-Func-PorValor-PorRef\Ejercicio47\Ejercicio47\obj\Debug\netcoreapp3.1\Ejercicio47.dll
+C:\Users\diego\source\repos\Ejercicios 5 Cicl.Repe.-Func-PorValor-PorRef\Ejercicio47\Ejercicio47\obj\Debug\netcoreapp3.1\Ejercicio47.pdb
+C:\Users\diego\source\repos\Ejercicios 5 Cicl.Repe.-Func-PorValor-PorRef\Ejercicio47\Ejercicio47\obj\Debug\netcoreapp3.1\Ejercicio47.genruntimeconfig.cache
